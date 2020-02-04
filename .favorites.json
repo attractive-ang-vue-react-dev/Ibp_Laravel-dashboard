@@ -1,0 +1,55 @@
+[
+    {
+        "type": "Group",
+        "name": "folders",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "9W3FZaqy0hreJS8N"
+    },
+    {
+        "type": "Directory",
+        "name": "f:\\Development\\github\\ibp\\database\\migrations",
+        "parent_id": "9W3FZaqy0hreJS8N",
+        "fsPath": "f:\\Development\\github\\ibp\\database\\migrations",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6yoFrNHA71J3pc8X"
+    },
+    {
+        "type": "Directory",
+        "name": "f:\\Development\\github\\ibp\\routes",
+        "parent_id": "9W3FZaqy0hreJS8N",
+        "fsPath": "f:\\Development\\github\\ibp\\routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "pCH7aczIPQJqZbrM"
+    },
+    {
+        "type": "Directory",
+        "name": "f:\\Development\\github\\ibp\\resources\\views",
+        "parent_id": "9W3FZaqy0hreJS8N",
+        "fsPath": "f:\\Development\\github\\ibp\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4yUouSaiBYhWEk5j"
+    },
+    {
+        "type": "Directory",
+        "name": "f:\\Development\\github\\ibp\\app\\Http\\Controllers",
+        "parent_id": "9W3FZaqy0hreJS8N",
+        "fsPath": "f:\\Development\\github\\ibp\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "RYwUMviJaonG06cx"
+    },
+    {
+        "type": "Directory",
+        "name": "f:\\Development\\github\\ibp\\app\\Models",
+        "parent_id": "9W3FZaqy0hreJS8N",
+        "fsPath": "f:\\Development\\github\\ibp\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "yfx80olSig6DmubX"
+    }
+]

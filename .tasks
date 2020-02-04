@@ -1,0 +1,64 @@
+So i've checked, few things missing :
+- Registration : flag depending on phone number starts (+XX) not working.
+
+==========================================================================
+- Product management :
+. product title, description, ingredients, ... all the fields where we see "french english spanish" :
+when filled-in in a langage (ex: english), we need to call Google Translate API to translate automatically : in the two other langages.
+
+To have some test data :
+. Categroies :
+Please insert these categories in DB :
+
+FRENCH:
+Boissons
+Epicerie
+Jus & Laitages
+Fruits & Légumes
+Boulangerie
+Viande
+Frais (dont cremerie)
+Surgelé
+Compléments Alimentaires
+Hygiène & Beauté
+Entretien (Dtergence)
+
+English:
+Beverages
+Grocery
+Juices & Milk
+Fruits & Vegetables
+Bakery
+Meat
+Fresh
+Frozen
+Food Supplements
+Hygiene & Beauty
+Hygiene (Detergents)
+
+Spanish:
+Bebidas
+Productos secos
+Jugos y leche
+Frutas y Verduras
+Panadería
+Carne
+Fresco
+Congelado
+Suplementos Alimenticios
+Higiene y Belleza
+Higiene (Detergentes)
+
+- Certifications:
+Label AB
+Nature et progrès
+Label Européen
+Cosmebio
+Demeter
+Ecocert
+BDIH
+Label AB
+
+- Adding a product : picture should not be mandatory to add a product.
+. When adding a picture (or several) saving, the picture doesn't appear in edit form.
+. the UI of the upload block (when adding several images) is not clean.
